@@ -5,8 +5,8 @@ data analysis, optimization, and analytical problem-solving.
 
 My current focus areas are:
 
-- statistical analysis and exploratory data analysis
-- data cleaning and visualization
+- statistical analysis and statistical learning
+- data science
 - optimization and quantitative problem-solving
 - reproducible analysis with Python, SQL, and Excel
 
