@@ -12,14 +12,12 @@ My current focus areas are:
 
 ## Selected projects
 
-### Unicorn Companies EDA — in progress
+### [Unicorn Companies EDA](https://github.com/yusuffgencer/unicorn-companies-eda) — in progress
 
 An exploratory data analysis project focused on valuation, industry, geography,
 and funding patterns in a public unicorn-company dataset.
 
 `Python` · `pandas` · `data visualization`
-
-> The repository link will be added after the analysis and documentation are complete.
 
 ## Currently building
 
